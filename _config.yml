@@ -14,9 +14,9 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Snowball Quantitative Research"
-description:	       "a homepage of SQR"
-author:              "SQR"
+title:		           "SQR"
+description:	       "Snowball Quantitative Research"
+author:              "KYL"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
