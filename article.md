@@ -5,7 +5,7 @@ SQR is a quantitative investment company focusing on digital assets. Our goal is
 We have highly competitive members where most of whom have Ph.D. degrees in Computer Science and top-tier publications, Olympiad medal. 
 
 # Strategies
-We are operating multiple factor-based long-biased and long-short hedged strategies.
+We are operating multiple factor-based long-short hedged strategies.
 
 # Performance
 We are recording annualized Sharpe ratio of 2.07 since inception.
