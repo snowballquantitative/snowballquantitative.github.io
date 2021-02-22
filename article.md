@@ -8,7 +8,7 @@ We have highly competitive members where most of whom have Ph.D. degrees in Comp
 We are operating multiple factor-based long-short hedged strategies.
 
 # Performance
-We are recording annualized Sharpe ratio of 2.07 since inception.
+We are recording annualized Sharpe ratio of 2.07 and maximum drawdown 5.2% since inception.
 
 ![logo](./images/cumret.png)
 
