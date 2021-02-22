@@ -15,4 +15,5 @@ We are recording annualized Sharpe ratio of 2.07 since inception.
 # Contact
 snowqr.corp at gmail.com
 
-
+### Updated
+2021-02-22
