@@ -9,6 +9,7 @@ We are operating multiple factor-based long-biased and long-short hedged strateg
 
 # Performance
 We are recording annualized Sharpe ratio of 2.07 since inception.
+
 ![logo](./images/logo.jpg)
 
 # Contact
