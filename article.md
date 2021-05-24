@@ -16,4 +16,4 @@ We are recording annualized Sharpe ratio of 2.44 and maximum drawdown 5.2% since
 snowqr.corp at gmail.com
 
 # Updated
-2021-04-07
+2021-05-24
