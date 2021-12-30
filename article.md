@@ -8,12 +8,10 @@ We have highly competitive members where most of whom have Ph.D. degrees in Comp
 We are operating multiple factor-based long-short hedged strategies.
 
 # Performance
-We are recording annualized Sharpe ratio of 2.14 and maximum drawdown 9.3% since inception.
-
-![logo](./images/cumret.png)
+Please ask via email. 
 
 # Contact
 snowqr.corp at gmail.com
 
 # Updated
-2021-10-27
+2021-12-30
